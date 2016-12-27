@@ -10,6 +10,15 @@ body h3.abc{
     font-size:15px;
 }
 
+#profile img {
+	width:180px;
+}
+
+.sample1 img {
+	width:300px;
+	position:center;
+}
+
 
 /*　以下webサイトより活用*/
 .sample1 {
